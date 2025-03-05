@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Second Example",
+      "slug": "second-example",
+      "html": "<h1>Welcome to the second example!</h1>",
+      "category": "Demo Category"
+    },
+    {
+      "name": "Example Name",
+      "slug": "example-name",
+      "html": "<p>This is an example HTML content.</p>",
+      "category": "Example Category"
+    }
+  ]
+  
