@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tarun-510/bootstrap-custom-components.git/static/css/main.cf890fdb.css",
-    "main.js": "/tarun-510/bootstrap-custom-components.git/static/js/main.7eb8afb7.js",
-    "static/js/453.bfff88a4.chunk.js": "/tarun-510/bootstrap-custom-components.git/static/js/453.bfff88a4.chunk.js",
-    "index.html": "/tarun-510/bootstrap-custom-components.git/index.html",
-    "main.cf890fdb.css.map": "/tarun-510/bootstrap-custom-components.git/static/css/main.cf890fdb.css.map",
-    "main.7eb8afb7.js.map": "/tarun-510/bootstrap-custom-components.git/static/js/main.7eb8afb7.js.map",
-    "453.bfff88a4.chunk.js.map": "/tarun-510/bootstrap-custom-components.git/static/js/453.bfff88a4.chunk.js.map"
+    "main.css": "/static/css/main.cf890fdb.css",
+    "main.js": "/static/js/main.85e7ab5f.js",
+    "static/js/453.bfff88a4.chunk.js": "/static/js/453.bfff88a4.chunk.js",
+    "index.html": "/index.html",
+    "main.cf890fdb.css.map": "/static/css/main.cf890fdb.css.map",
+    "main.85e7ab5f.js.map": "/static/js/main.85e7ab5f.js.map",
+    "453.bfff88a4.chunk.js.map": "/static/js/453.bfff88a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf890fdb.css",
-    "static/js/main.7eb8afb7.js"
+    "static/js/main.85e7ab5f.js"
   ]
 }
