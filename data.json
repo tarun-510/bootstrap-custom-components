@@ -1,15 +1,314 @@
 [
-    {
-      "name": "Second Example",
-      "slug": "second-example",
-      "html": "<h1>Welcome to the second example!</h1>",
-      "category": "Demo Category"
-    },
-    {
-      "name": "Example Name",
-      "slug": "example-name",
-      "html": "<p>This is an example HTML content.</p>",
-      "category": "Example Category"
-    }
-  ]
-  
+  {
+    "name": "Top Mini Navbar 01",
+    "slug": "top-mini-navbar-01",
+    "file": "01-Top-mini-bar/top-mini-navbar-01.html",
+    "category": "Navbar"
+  },
+  {
+    "name": "Top Mini Navbar 02",
+    "slug": "top-mini-navbar-02",
+    "file": "01-Top-mini-bar/top-mini-navbar-02.html",
+    "category": "Navbar"
+  },
+  {
+    "name": "Top Mini Navbar 03",
+    "slug": "top-mini-navbar-03",
+    "file": "01-Top-mini-bar/top-mini-navbar-03.html",
+    "category": "Navbar"
+  },
+  {
+    "name": "Main Navbar 01",
+    "slug": "navbar-01",
+    "file": "02-Navbars/navbar-01.html",
+    "category": "Navbar"
+  },
+  {
+    "name": "Main Navbar 02",
+    "slug": "navbar-02",
+    "file": "02-Navbars/navbar-02.html",
+    "category": "Navbar"
+  },
+  {
+    "name": "Main Navbar 03",
+    "slug": "navbar-03",
+    "file": "02-Navbars/navbar-03.html",
+    "category": "Navbar"
+  },
+  {
+    "name": "Main Navbar 04",
+    "slug": "navbar-04",
+    "file": "02-Navbars/navbar-04.html",
+    "category": "Navbar"
+  },
+  {
+    "name": "Main Navbar 05",
+    "slug": "navbar-05",
+    "file": "02-Navbars/navbar-05.html",
+    "category": "Navbar"
+  },
+  {
+    "name": "Main Navbar 06",
+    "slug": "navbar-06",
+    "file": "02-Navbars/navbar-06.html",
+    "category": "Navbar"
+  },
+  {
+    "name": "Main Navbar 07",
+    "slug": "navbar-07",
+    "file": "02-Navbars/navbar-07.html",
+    "category": "Navbar"
+  },
+  {
+    "name": "Main Navbar 08",
+    "slug": "navbar-08",
+    "file": "02-Navbars/navbar-08.html",
+    "category": "Navbar"
+  },
+  {
+    "name": "Hero Section 01",
+    "slug": "hero-section-01",
+    "file": "03-Hero-section/hero-section-01.html",
+    "category": "Hero section"
+  },
+  {
+    "name": "Hero Section 02",
+    "slug": "hero-section-02",
+    "file": "03-Hero-section/hero-section-02.html",
+    "category": "Hero section"
+  },
+  {
+    "name": "Hero Section 03",
+    "slug": "hero-section-03",
+    "file": "03-Hero-section/hero-section-03.html",
+    "category": "Hero section"
+  },
+  {
+    "name": "Hero Section 04",
+    "slug": "hero-section-04",
+    "file": "03-Hero-section/hero-section-04.html",
+    "category": "Hero section"
+  },
+  {
+    "name": "Hero Section 05",
+    "slug": "hero-section-05",
+    "file": "03-Hero-section/hero-section-05.html",
+    "category": "Hero section"
+  },
+  {
+    "name": "Hero Section 06",
+    "slug": "hero-section-06",
+    "file": "03-Hero-section/hero-section-06.html",
+    "category": "Hero section"
+  },
+  {
+    "name": "Hero Section 07",
+    "slug": "hero-section-07",
+    "file": "03-Hero-section/hero-section-07.html",
+    "category": "Hero section"
+  },
+  {
+    "name": "Hero Section 08",
+    "slug": "hero-section-08",
+    "file": "03-Hero-section/hero-section-08.html",
+    "category": "Hero section"
+  },
+  {
+    "name": "Hero Section 09",
+    "slug": "hero-section-09",
+    "file": "03-Hero-section/hero-section-09.html",
+    "category": "Hero section"
+  },
+  {
+    "name": "Hero Section 10",
+    "slug": "hero-section-10",
+    "file": "03-Hero-section/hero-section-10.html",
+    "category": "Hero section"
+  },
+  {
+    "name": "Hero Section 11",
+    "slug": "hero-section-11",
+    "file": "03-Hero-section/hero-section-11.html",
+    "category": "Hero section"
+  },
+  {
+    "name": "Hero Section 12",
+    "slug": "hero-section-12",
+    "file": "03-Hero-section/hero-section-12.html",
+    "category": "Hero section"
+  },
+  {
+    "name": "Content Block (1)",
+    "slug": "content-block-(1)",
+    "file": "04-content/content-block-(1).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (2)",
+    "slug": "content-block-(2)",
+    "file": "04-content/content-block-(2).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (3)",
+    "slug": "content-block-(3)",
+    "file": "04-content/content-block-(3).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (4)",
+    "slug": "content-block-(4)",
+    "file": "04-content/content-block-(4).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (5)",
+    "slug": "content-block-(5)",
+    "file": "04-content/content-block-(5).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (6)",
+    "slug": "content-block-(6)",
+    "file": "04-content/content-block-(6).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (7)",
+    "slug": "content-block-(7)",
+    "file": "04-content/content-block-(7).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (8)",
+    "slug": "content-block-(8)",
+    "file": "04-content/content-block-(8).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (9)",
+    "slug": "content-block-(9)",
+    "file": "04-content/content-block-(9).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (10)",
+    "slug": "content-block-(10)",
+    "file": "04-content/content-block-(10).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (12)",
+    "slug": "content-block-(12)",
+    "file": "04-content/content-block-(12).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (13)",
+    "slug": "content-block-(13)",
+    "file": "04-content/content-block-(13).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (14)",
+    "slug": "content-block-(14)",
+    "file": "04-content/content-block-(14).html",
+    "category": "Content blocks"
+  },
+  {
+     "name": "Content Block (15)",
+      "slug": "content-block-(15)",
+      "file": "04-content/content-block-(15).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (16)",
+    "slug": "content-block-(16)",
+    "file": "04-content/content-block-(16).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (17)",
+    "slug": "content-block-(17)",
+    "file": "04-content/content-block-(17).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (18)",
+    "slug": "content-block-(18)",
+    "file": "04-content/content-block-(18).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (19)",
+    "slug": "content-block-(19)",
+    "file": "04-content/content-block-(19).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (20)",
+    "slug": "content-block-(20)",
+    "file": "04-content/content-block-(20).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (21)",
+    "slug": "content-block-(21)",
+    "file": "04-content/content-block-(21).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (1)",
+    "slug": "content-block-(1)",
+    "file": "04-content/content-block-(1).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (1)",
+    "slug": "content-block-(1)",
+    "file": "04-content/content-block-(1).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (1)",
+    "slug": "content-block-(1)",
+    "file": "04-content/content-block-(1).html",
+    "category": "Content blocks"
+  },
+  {
+    "name": "Content Block (1)",
+    "slug": "content-block-(1)",
+    "file": "04-content/content-block-(1).html",
+    "category": "Content blocks"
+  },  
+  {
+    "name": "Blog post 01",
+    "slug": "blog-01",
+    "file": "blog-01.html",
+    "category": "Blog"
+  },
+  {
+    "name": "Blog post 02",
+    "slug": "blog-02",
+    "file": "blog-02.html",
+    "category": "Blog"
+  },
+  {
+    "name": "Blog post 03",
+    "slug": "blog-03",
+    "file": "blog-03.html",
+    "category": "Blog"
+  },
+  {
+    "name": "Blog post 04",
+    "slug": "blog-04",
+    "file": "blog-04.html",
+    "category": "Blog"
+  },
+  {
+    "name": "Blog post 05",
+    "slug": "blog-05",
+    "file": "blog-05.html",
+    "category": "Blog"
+  }
+]
