@@ -1,4 +1,7 @@
 [
+  
+ 
+
   {
     "name": "Top Mini Navbar 01",
     "slug": "top-mini-navbar-01",
@@ -258,29 +261,36 @@
     "category": "Content blocks"
   },
   {
-    "name": "Content Block (1)",
-    "slug": "content-block-(1)",
-    "file": "04-Content/content-block-(1).html",
+    "name": "Content Block (22)",
+    "slug": "content-block-(22)",
+    "file": "04-Content/content-block-(22).html",
     "category": "Content blocks"
   },
   {
-    "name": "Content Block (1)",
-    "slug": "content-block-(1)",
-    "file": "04-Content/content-block-(1).html",
-    "category": "Content blocks"
+    "name": "Partners 01",
+    "slug": "partners-01",
+    "file": "05-Partners/partners-01.html",
+    "category": "Partners"
+  },
+   
+  {
+    "name": "Partners 02",
+    "slug": "partners-02",
+    "file": "05-Partners/partners-02.html",
+    "category": "Partners"
   },
   {
-    "name": "Content Block (1)",
-    "slug": "content-block-(1)",
-    "file": "04-Content/content-block-(1).html",
-    "category": "Content blocks"
+    "name": "Partners 03",
+    "slug": "partners-03",
+    "file": "05-Partners/partners-03.html",
+    "category": "Partners"
   },
   {
-    "name": "Content Block (1)",
-    "slug": "content-block-(1)",
-    "file": "04-Content/content-block-(1).html",
-    "category": "Content blocks"
-  },  
+    "name": "Partners 04",
+    "slug": "partners-04",
+    "file": "05-Partners/partners-04.html",
+    "category": "Partners"
+  },
   {
     "name": "Blog post 01",
     "slug": "blog-01",
@@ -310,5 +320,225 @@
     "slug": "blog-05",
     "file": "blog-05.html",
     "category": "Blog"
+  },
+  {
+    "name": "Statistics 01",
+    "slug": "Statistics-01",
+    "file": "06-Stats/stats-01.html",
+    "category": "Statistics"
+  },
+  {
+    "name": "Statistics 02",
+    "slug": "Statistics-02",
+    "file": "06-Stats/stats-02.html",
+    "category": "Statistics"
+  },
+  {
+    "name": "Statistics 03",
+    "slug": "Statistics-03",
+    "file": "06-Stats/stats-03.html",
+    "category": "Statistics"
+  },
+  {
+    "name": "Statistics 04",
+    "slug": "Statistics-04",
+    "file": "06-Stats/stats-04.html",
+    "category": "Statistics"
+  },
+  {
+    "name": "Statistics 05",
+    "slug": "Statistics-05",
+    "file": "06-Stats/stats-05.html",
+    "category": "Statistics"
+  },
+  {
+    "name": "Statistics 06",
+    "slug": "Statistics-06",
+    "file": "06-Stats/stats-06.html",
+    "category": "Statistics"
+  },
+   
+  {
+    "name": "Team 01",
+    "slug": "team-01",
+    "file": "07-Team/team-01.html",
+    "category": "Team"
+  },
+  {
+    "name": "Team 02",
+    "slug": "team-02",
+    "file": "07-Team/team-02.html",
+    "category": "Team"
+  },
+  {
+    "name": "Team 03",
+    "slug": "team-03",
+    "file": "07-Team/team-03.html",
+    "category": "Team"
+  },
+  {
+    "name": "Team 04",
+    "slug": "team-04",
+    "file": "07-Team/team-04.html",
+    "category": "Team"
+  },
+  {
+    "name": "Team 05",
+    "slug": "team-05",
+    "file": "07-Team/team-05.html",
+    "category": "Team"
+  },
+  {
+    "name": "Team 06",
+    "slug": "team-06",
+    "file": "07-Team/team-06.html",
+    "category": "Team"
+  },
+  {
+    "name": "FAQ 01",
+    "slug": "faq-01",
+    "file": "08-faq/faq-01.html",
+    "category": "FAQ"
+  },
+  {
+    "name": "FAQ 02",
+    "slug": "faq-02",
+    "file": "08-faq/faq-02.html",
+    "category": "FAQ"
+  },
+  {
+    "name": "FAQ 03",
+    "slug": "faq-03",
+    "file": "08-faq/faq-03.html",
+    "category": "FAQ"
+  },
+  {
+    "name": "FAQ 04",
+    "slug": "faq-04",
+    "file": "08-faq/faq-04.html",
+    "category": "FAQ"
+  },
+  {
+    "name": "CTA 01",
+    "slug": "cta-01",
+    "file": "09-CTA/cta-01.html",
+    "category": "CTA"
+  },
+  {
+    "name": "CTA 02",
+    "slug": "cta-02",
+    "file": "09-CTA/cta-02.html",
+    "category": "CTA"
+  },
+  {
+    "name": "CTA 03",
+    "slug": "cta-03",
+    "file": "09-CTA/cta-03.html",
+    "category": "CTA"
+  },
+  {
+    "name": "CTA 04",
+    "slug": "cta-04",
+    "file": "09-CTA/cta-04.html",
+    "category": "CTA"
+  },
+  {
+    "name": "Contact 01",
+    "slug": "contact-01",
+    "file": "10-Contact/contact-01.html",
+   "category": "Contact"
+  },
+  {
+    "name": "Contact 02",
+    "slug": "contact-02",
+    "file": "10-Contact/contact-02.html",
+   "category": "Contact"
+  },
+  {
+    "name": "Contact 03",
+    "slug": "contact-03",
+    "file": "10-Contact/contact-03.html",
+   "category": "Contact"
+  },
+  {
+    "name": "Contact 04",
+    "slug": "contact-04",
+    "file": "10-Contact/contact-04.html",
+   "category": "Contact"
+  },
+  {
+    "name": "Contact 05",
+    "slug": "contact-05",
+    "file": "10-Contact/contact-05.html",
+   "category": "Contact"
+  },
+  {
+    "name": "Contact 06",
+    "slug": "contact-06",
+    "file": "10-Contact/contact-06.html",
+   "category": "Contact"
+  },
+  {
+    "name": "Testimonials 01",
+    "slug": "testimonials-01",
+    "file": "11-Testimonial/testimonials-01.html",
+  "category": "Testimonials"
+  },
+  {
+    "name": "Testimonials 02",
+    "slug": "testimonials-02",
+    "file": "11-Testimonial/testimonials-02.html",
+  "category": "Testimonials"
+  },
+  {
+    "name": "Testimonials 03",
+    "slug": "testimonials-03",
+    "file": "11-Testimonial/testimonials-03.html",
+  "category": "Testimonials"
+  },
+  {
+    "name": "Testimonials 04",
+    "slug": "testimonials-04",
+    "file": "11-Testimonial/testimonials-04.html",
+  "category": "Testimonials"
+  },
+  {
+    "name": "Testimonials 05",
+    "slug": "testimonials-05",
+    "file": "11-Testimonial/testimonials-05.html",
+  "category": "Testimonials"
+  },
+  {
+    "name": "Testimonials 06",
+    "slug": "testimonials-06",
+    "file": "11-Testimonial/testimonials-06.html",
+  "category": "Testimonials"
+  },
+
+  {
+    "name": "Footer 01",
+    "slug": "footer-01",
+    "file": "12-Footer/footer-01.html",
+  "category": "Footer"
+  },
+  {
+    "name": "Footer 02",
+    "slug": "footer-02",
+    "file": "12-Footer/footer-02.html",
+  "category": "Footer"
+  },
+  {
+    "name": "Footer 03",
+    "slug": "footer-03",
+    "file": "12-Footer/footer-03.html",
+  "category": "Footer"
+  },
+  {
+    "name": "Gallery 01",
+    "slug": "gallery-03",
+    "file": "13-Gallery/gallery-01.html",
+  "category": "Gallery"
   }
+
+
 ]
